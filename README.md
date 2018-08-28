@@ -43,3 +43,17 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 1. https://mailtrack.io/blog/find-email-address/
 1. https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are
 
+## Self-Branding Links
+
+1. https://www.inc.com/jessica-stillman/3-steps-to-finding-a-fulfilling-career.html
+2. https://tinybuddha.com/blog/5-steps-to-change-your-perspective-and-overcome-your-challenges/
+3. https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand-chapter-1/
+4. https://www.inc.com/jayson-demers/5-steps-to-building-a-personal-brand-and-why-you-need-one.html
+5. https://www.themuse.com/advice/14-free-personality-tests-thatll-help-you-figure-yourself-out
+6. https://99u.adobe.com/articles/51669/how-to-write-about-me-section
+7. https://www.themuse.com/advice/3-ways-youre-standing-in-the-way-of-your-own-successand-how-to-stop-today
+8. https://www.themuse.com/advice/4-reasons-youre-much-more-qualified-for-your-dream-job-than-you-think-you-are
+9. https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month
+10. https://50waystogetajob.com/
+11. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
+
