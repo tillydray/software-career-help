@@ -117,6 +117,13 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 1. https://github.com/h5bp/Front-end-Developer-Interview-Questions
 1. https://docs.google.com/document/d/1gtBdi394fuOdcnFOmpwapTmK2b8NfRFIzeq-vZs7geM/edit#
 
+## Salary Negotiation Links
+
+1. https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them
+1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
+1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
+1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
+
 ## Misc Links
 
 1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
