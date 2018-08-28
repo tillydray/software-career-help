@@ -10,13 +10,21 @@ Resources to make changing careers into software a bit easier.
 
 1. https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606
 1. https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume
-1. https://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fihttps://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fit
 1. https://www.fastcompany.com/3056444/cover-letters-are-dead-do-this-instead
 1. http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/
 1. http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/
 1. https://anti-pattern.com/github-is-your-resume-now
 1. https://code.dblock.org/2011/07/14/github-is-your-new-resume.html
 1. https://www.themuse.com/advice/how-to-easily-make-yourself-the-most-obvious-fit-for-the-position
+1. https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now
+1. https://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fit
+1. https://www.themuse.com/advice/5-ways-your-resume-is-just-like-everyone-elses
+1. https://www.themuse.com/advice/cv-vs-resumehere-are-the-differences
+1. https://www.themuse.com/advice/4-ways-you-can-always-improve-your-resume-no-matter-how-good-it-is-1
+1. https://theundercoverrecruiter.com/tools-infographic-resume/
+1. https://www.behance.net/gallery/15144011/Free-clean-interactive-resume
+1. https://www.behance.net/gallery/11402207/Conservative-Resume-Design
+1. https://dribbble.com/shots/1373157-Resume
 
 ## Cover Letter Links
 
