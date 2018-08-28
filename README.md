@@ -2,6 +2,10 @@
 
 Resources to make changing careers into software a bit easier.
 
+## Creating Your Portoflio Links
+
+1. https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde
+
 ## Resume Links
 
 1. https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606
