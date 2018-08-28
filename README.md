@@ -8,11 +8,11 @@ Resources to make changing careers into software a bit easier.
    Tracker](https://docs.google.com/spreadsheets/d/1Z2JO5JZhDXzi2NStQRz-L8cmOwECPoA0iJGHNjvzHbw/edit?usp=sharing).
    Download and fill it out as you go.
 
-## Creating Your Portoflio Links
+## Creating Your Portoflio
 
 1. https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde
 
-## Resume Links
+## Resume
 
 1. https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606
 1. https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume
@@ -32,7 +32,7 @@ Resources to make changing careers into software a bit easier.
 1. https://www.behance.net/gallery/11402207/Conservative-Resume-Design
 1. https://dribbble.com/shots/1373157-Resume
 
-## Cover Letter Links
+## Cover Letter
 
 1. https://www.themuse.com/advice/31-attentiongrabbing-cover-letter-examples
 1. https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze
@@ -44,7 +44,7 @@ Resources to make changing careers into software a bit easier.
 1. http://time.com/4169664/email-introduction/
 1. https://www.themuse.com/advice/how-to-show-you-get-the-company-culture-in-your-cover-letter
 
-## Networking Links
+## Networking
 
 1. https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes
 1. https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview
@@ -61,7 +61,7 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 1. https://mailtrack.io/blog/find-email-address/
 1. https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are
 
-## Self-Branding Links
+## Self-Branding
 
 1. https://www.inc.com/jessica-stillman/3-steps-to-finding-a-fulfilling-career.html
 1. https://tinybuddha.com/blog/5-steps-to-change-your-perspective-and-overcome-your-challenges/
@@ -75,7 +75,7 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 1. https://50waystogetajob.com/
 1. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
 
-## Interview Prep Links
+## Interview Prep
 
 1. https://drive.google.com/file/d/0B0cuNYi34jyuUDBkQnV5Wmh5X3M/edit
 1. https://www.sitepoint.com/getting-hired-developer-tips-senior-recruiters/
@@ -123,14 +123,14 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 1. https://github.com/h5bp/Front-end-Developer-Interview-Questions
 1. https://docs.google.com/document/d/1gtBdi394fuOdcnFOmpwapTmK2b8NfRFIzeq-vZs7geM/edit#
 
-## Salary Negotiation Links
+## Salary Negotiation
 
 1. https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them
 1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
 1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
 1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
 
-## Misc Links
+## Misc
 
 1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
 1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
