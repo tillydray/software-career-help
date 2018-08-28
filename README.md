@@ -8,7 +8,7 @@ Resources to make changing careers into software a bit easier.
    Tracker](https://docs.google.com/spreadsheets/d/1Z2JO5JZhDXzi2NStQRz-L8cmOwECPoA0iJGHNjvzHbw/edit?usp=sharing).
    Download and fill it out as you go.
 
-## Creating Your Portoflio
+## Creating and Improving Your Portoflio
 
 1. https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde
 
