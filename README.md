@@ -57,3 +57,19 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 10. https://50waystogetajob.com/
 11. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
 
+## Misc Links
+
+1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
+2. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
+3. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
+4. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
+5. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
+6. http://startupstash.com/
+7. https://www.reddit.com/r/Entrepreneur/
+8. https://www.freelancersunion.org/
+9. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
+10. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
+11. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
+12. https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view
+13. https://hired.com/whitepapers/software-engineer-salary-data
+14. https://www.youtube.com/watch?v=WySMrBDPb-c
