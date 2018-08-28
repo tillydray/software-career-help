@@ -35,14 +35,14 @@ Resources to make changing careers into software a bit easier.
 ## Cover Letter Links
 
 1. https://www.themuse.com/advice/31-attentiongrabbing-cover-letter-examples
-2. https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze
-3. https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask
-4. https://www.themuse.com/advice/this-is-what-it-means-to-write-a-cover-letter-for-your-resume
-5. https://www.themuse.com/advice/this-tiny-little-writing-fix-can-completely-change-how-others-perceive-you
-6. https://www.themuse.com/advice/3-basic-email-mistakes-that-make-you-look-really-unprofessional
-7. https://mailtrack.io/blog/follow-up-email/
-8. http://time.com/4169664/email-introduction/
-9. https://www.themuse.com/advice/how-to-show-you-get-the-company-culture-in-your-cover-letter
+1. https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze
+1. https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask
+1. https://www.themuse.com/advice/this-is-what-it-means-to-write-a-cover-letter-for-your-resume
+1. https://www.themuse.com/advice/this-tiny-little-writing-fix-can-completely-change-how-others-perceive-you
+1. https://www.themuse.com/advice/3-basic-email-mistakes-that-make-you-look-really-unprofessional
+1. https://mailtrack.io/blog/follow-up-email/
+1. http://time.com/4169664/email-introduction/
+1. https://www.themuse.com/advice/how-to-show-you-get-the-company-culture-in-your-cover-letter
 
 ## Networking Links
 
@@ -64,16 +64,16 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 ## Self-Branding Links
 
 1. https://www.inc.com/jessica-stillman/3-steps-to-finding-a-fulfilling-career.html
-2. https://tinybuddha.com/blog/5-steps-to-change-your-perspective-and-overcome-your-challenges/
-3. https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand-chapter-1/
-4. https://www.inc.com/jayson-demers/5-steps-to-building-a-personal-brand-and-why-you-need-one.html
-5. https://www.themuse.com/advice/14-free-personality-tests-thatll-help-you-figure-yourself-out
-6. https://99u.adobe.com/articles/51669/how-to-write-about-me-section
-7. https://www.themuse.com/advice/3-ways-youre-standing-in-the-way-of-your-own-successand-how-to-stop-today
-8. https://www.themuse.com/advice/4-reasons-youre-much-more-qualified-for-your-dream-job-than-you-think-you-are
-9. https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month
-10. https://50waystogetajob.com/
-11. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
+1. https://tinybuddha.com/blog/5-steps-to-change-your-perspective-and-overcome-your-challenges/
+1. https://www.quicksprout.com/the-complete-guide-to-building-your-personal-brand-chapter-1/
+1. https://www.inc.com/jayson-demers/5-steps-to-building-a-personal-brand-and-why-you-need-one.html
+1. https://www.themuse.com/advice/14-free-personality-tests-thatll-help-you-figure-yourself-out
+1. https://99u.adobe.com/articles/51669/how-to-write-about-me-section
+1. https://www.themuse.com/advice/3-ways-youre-standing-in-the-way-of-your-own-successand-how-to-stop-today
+1. https://www.themuse.com/advice/4-reasons-youre-much-more-qualified-for-your-dream-job-than-you-think-you-are
+1. https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month
+1. https://50waystogetajob.com/
+1. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
 
 ## Interview Prep Links
 
@@ -133,16 +133,16 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 ## Misc Links
 
 1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
-2. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
-3. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
-4. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
-5. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
-6. http://startupstash.com/
-7. https://www.reddit.com/r/Entrepreneur/
-8. https://www.freelancersunion.org/
-9. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
-10. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
-11. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
-12. https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view
-13. https://hired.com/whitepapers/software-engineer-salary-data
-14. https://www.youtube.com/watch?v=WySMrBDPb-c
+1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
+1. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
+1. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
+1. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
+1. http://startupstash.com/
+1. https://www.reddit.com/r/Entrepreneur/
+1. https://www.freelancersunion.org/
+1. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
+1. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
+1. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
+1. https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view
+1. https://hired.com/whitepapers/software-engineer-salary-data
+1. https://www.youtube.com/watch?v=WySMrBDPb-c
