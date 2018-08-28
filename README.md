@@ -69,6 +69,54 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 10. https://50waystogetajob.com/
 11. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
 
+## Interview Prep Links
+
+1. https://drive.google.com/file/d/0B0cuNYi34jyuUDBkQnV5Wmh5X3M/edit
+1. https://www.sitepoint.com/getting-hired-developer-tips-senior-recruiters/
+1. https://www.themuse.com/advice/the-ultimate-guide-to-researching-a-company-preinterview
+1. https://www.themuse.com/advice/your-4step-plan-to-answering-tell-me-about-yourself-perfectly
+1. https://www.themuse.com/advice/5-ways-to-show-the-interviewer-youre-the-best-hire-in-the-world
+1. https://www.themuse.com/advice/8-surprisingly-easy-ways-you-can-wow-the-person-interviewing-you-according-to-real-live-hiring-managers
+1. https://www.themuse.com/advice/4-supercommon-interview-questionsand-4-supermemorable-ways-to-answer-them
+1. https://www.themuse.com/advice/pleasantly-persistent-5-rules-for-effectively-following-up
+1. https://www.themuse.com/advice/5-smart-approaches-to-take-when-youre-asked-to-name-your-salary-besides-just-writing-all-the-zeros
+1. https://www.themuse.com/advice/4-questions-that-will-cost-you-the-interview-and-what-to-ask-instead
+1. https://www.themuse.com/advice/4-ways-you-can-take-back-control-during-a-neverending-interview-process
+1. https://www.themuse.com/advice/5-horrible-interview-moments-you-need-to-stop-overanalyzing
+1. https://www.themuse.com/advice/10-interview-questions-you-should-never-ask-and-5-you-always-should
+1. https://www.themuse.com/advice/13-crazy-interview-questions-that-awesome-companies-will-actually-ask-you
+1. https://www.themuse.com/advice/8-ways-to-know-everything-about-a-companyeven-before-the-interview
+1. https://www.themuse.com/advice/4-moves-you-didnt-realize-make-you-look-unprofessional-in-an-interview
+1. https://www.themuse.com/advice/4-littleknown-facts-about-the-interview-processand-how-to-use-them-to-your-benefit
+1. https://www.themuse.com/advice/the-ultimate-interview-guide-30-prep-tips-for-job-interview-success
+1. https://www.themuse.com/advice/3-times-youre-overthinking-your-interview-and-3-times-youre-not-thinking-about-it-enough
+1. https://www.themuse.com/advice/4-nosy-interview-questions-youre-allowed-to-ask-because-the-answers-matter
+1. https://www.themuse.com/advice/4-red-flags-you-cant-ignoreno-matter-how-badly-you-want-the-job
+1. https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer-1
+1. https://www.themuse.com/advice/this-is-what-really-goes-on-during-the-background-check-stage-of-the-interview-process
+1. https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+1. https://lifehacker.com/be-more-likable-in-conversation-by-making-the-other-per-1723226851
+1. https://www.businessinsider.com/uncover-truth-about-work-life-balance-job-interview-2015-11
+1. https://www.forbes.com/sites/kathycaprino/2016/04/16/3-skills-you-need-to-rock-your-interviews-and-your-career
+1. https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-you-should-ask/#4c125077ace2
+1. https://www.forbes.com/sites/jonyoushaei/2014/10/20/12-surprising-job-interview-tips/#13124ee350f4
+1. https://www.forbes.com/sites/lizryan/2016/03/20/how-to-talk-to-a-headhunter/
+1. https://www.fastcompany.com/3055458/these-are-the-biggest-mistakes-people-make-during-interviews
+1. https://qz.com/608398/be-prepared-we-gotasked-10-ceos-to-tellgive-us-their-killer-interview-questions/
+1. https://qz.com/647387/ace-your-next-job-interview-by-not-selling-yourself-at-all/
+1. https://280group.com/product-management-blog/10-revealing-interview-questions-from-product-management-executives/
+1. https://www.youtube.com/watch?v=hP6Bnis8rsY
+1. https://50waystogetajob.com/category/interviewing
+1. https://drive.google.com/file/d/0B0cuNYi34jyuQnRIZGw1Tk43OGs/view
+1. https://exercism.io/
+1. https://interviewing.io/
+1. https://www.pramp.com/#/
+1. https://ashleynolan.co.uk/blog/a-guide-to-front-end-interviews
+1. https://www.hackerrank.com/
+1. https://www.interviewcake.com/
+1. https://github.com/h5bp/Front-end-Developer-Interview-Questions
+1. https://docs.google.com/document/d/1gtBdi394fuOdcnFOmpwapTmK2b8NfRFIzeq-vZs7geM/edit#
+
 ## Misc Links
 
 1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
