@@ -25,3 +25,21 @@ Resources to make changing careers into software a bit easier.
 7. https://mailtrack.io/blog/follow-up-email/
 8. http://time.com/4169664/email-introduction/
 9. https://www.themuse.com/advice/how-to-show-you-get-the-company-culture-in-your-cover-letter
+
+## Networking Links
+
+1. https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes
+1. https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview
+https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event
+https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving
+1. https://medium.com/the-mission/the-number-one-predictor-of-career-success-according-to-network-science
+1. https://www.themuse.com/advice/the-savvy-networkers-guide-to-meeting-an-internet-stranger-irl
+1. https://www.themuse.com/advice/10-small-talk-tips-thatll-make-you-forget-you-ever-had-to-rely-on-so-how-about-that-weather
+1. https://www.themuse.com/advice/the-2minute-email-trick-that-convinced-85-of-recipients-to-actually-respond-to-me
+1. https://www.themuse.com/advice/heres-a-small-trick-for-turning-every-introduction-you-make-into-a-meaningful-one
+1. https://www.bustle.com/articles/93406-7-etiquette-tips-to-make-professional-networking-less-scary-because-youre-going-to-have-to-do
+1. http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/
+1. https://hbr.org/2016/01/how-successful-people-network-with-each-other
+1. https://mailtrack.io/blog/find-email-address/
+1. https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are
+
