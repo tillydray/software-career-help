@@ -48,8 +48,8 @@ Resources to make changing careers into software a bit easier.
 
 1. https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes
 1. https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview
-https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event
-https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving
+1. https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event
+1. https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving
 1. https://medium.com/the-mission/the-number-one-predictor-of-career-success-according-to-network-science
 1. https://www.themuse.com/advice/the-savvy-networkers-guide-to-meeting-an-internet-stranger-irl
 1. https://www.themuse.com/advice/10-small-talk-tips-thatll-make-you-forget-you-ever-had-to-rely-on-so-how-about-that-weather
@@ -129,6 +129,9 @@ https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-kee
 1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
 1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
 1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
+
+## General Career Advice
+1. https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook)
 
 ## Misc
 
