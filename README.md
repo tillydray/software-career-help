@@ -130,7 +130,7 @@ Resources to make changing careers into software a bit easier.
 1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
 1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
 
-## General Career Advice
+## Books
 1. https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook)
 
 ## Misc
