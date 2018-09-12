@@ -125,6 +125,7 @@ Resources to make changing careers into software a bit easier.
 
 ## Salary Negotiation
 
+1. https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 1. https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them
 1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
 1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
