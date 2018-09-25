@@ -34,15 +34,16 @@ Resources to make changing careers into software a bit easier.
 
 ## Cover Letter
 
-1. https://www.themuse.com/advice/31-attentiongrabbing-cover-letter-examples
-1. https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze
-1. https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask
-1. https://www.themuse.com/advice/this-is-what-it-means-to-write-a-cover-letter-for-your-resume
-1. https://www.themuse.com/advice/this-tiny-little-writing-fix-can-completely-change-how-others-perceive-you
-1. https://www.themuse.com/advice/3-basic-email-mistakes-that-make-you-look-really-unprofessional
-1. https://mailtrack.io/blog/follow-up-email/
-1. http://time.com/4169664/email-introduction/
-1. https://www.themuse.com/advice/how-to-show-you-get-the-company-culture-in-your-cover-letter
+1. [Guide to Finding Anyone's Email](https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email)
+1. [How to Show You Get the Company Culture in Your Cover Letter](https://www.themuse.com/advice/how-to-show-you-get-the-company-culture-in-your-cover-letter)
+1. [Email Introduction](http://time.com/4169664/email-introduction/)
+1. [31 Attention-grabbing Cover Letter Examples](https://www.themuse.com/advice/31-attentiongrabbing-cover-letter-examples)
+1. [Cover Letter Template](https://www.themuse.com/advice/cover-letters-are-hard-to-writebut-this-template-makes-it-a-breeze)
+1. [Email Cover Letter Template](https://www.themuse.com/advice/introducing-the-email-template-thatll-get-you-a-meeting-with-anyone-you-ask)
+1. [This is What it Means to Write a Cover Letter for Your Resume](https://www.themuse.com/advice/this-is-what-it-means-to-write-a-cover-letter-for-your-resume)
+1. [This Tiny Little Writing Fix](https://www.themuse.com/advice/this-tiny-little-writing-fix-can-completely-change-how-others-perceive-you)
+1. [3 Basic Email Mistakes that Make You Look Really Unprofessional](https://www.themuse.com/advice/3-basic-email-mistakes-that-make-you-look-really-unprofessional)
+1. [Follow Up Email](https://mailtrack.io/blog/follow-up-email/)
 
 ## Networking
 
