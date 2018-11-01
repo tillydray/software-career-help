@@ -11,6 +11,7 @@ Resources to make changing careers into software a bit easier.
 ## Creating and Improving Your Portoflio
 
 1. [Tips and Tricks to Finding Issues to Contribute to on Github](https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde)
+1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
 
 ## Resume
 
@@ -75,6 +76,7 @@ Resources to make changing careers into software a bit easier.
 1. https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month
 1. https://50waystogetajob.com/
 1. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
+1. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
 
 ## Interview Prep
 
@@ -123,6 +125,8 @@ Resources to make changing careers into software a bit easier.
 1. https://www.interviewcake.com/
 1. https://github.com/h5bp/Front-end-Developer-Interview-Questions
 1. https://docs.google.com/document/d/1gtBdi394fuOdcnFOmpwapTmK2b8NfRFIzeq-vZs7geM/edit#
+1. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
+1. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
 
 ## Salary Negotiation
 
@@ -131,23 +135,18 @@ Resources to make changing careers into software a bit easier.
 1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
 1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
 1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
+1. https://hired.com/whitepapers/software-engineer-salary-data
+1. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
+1. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
+1. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
 
 ## Books
 1. https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook)
 
 ## Misc
-
-1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
-1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
-1. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
-1. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
-1. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
 1. http://startupstash.com/
 1. https://www.reddit.com/r/Entrepreneur/
 1. https://www.freelancersunion.org/
-1. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
 1. https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view
-1. https://hired.com/whitepapers/software-engineer-salary-data
 1. https://www.youtube.com/watch?v=WySMrBDPb-c
+1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
