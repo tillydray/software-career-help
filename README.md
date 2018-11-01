@@ -10,27 +10,27 @@ Resources to make changing careers into software a bit easier.
 
 ## Creating and Improving Your Portoflio
 
-1. https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde
+1. [Tips and Tricks to Finding Issues to Contribute to on Github](https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde)
 
 ## Resume
 
-1. https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606
-1. https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume
-1. https://www.fastcompany.com/3056444/cover-letters-are-dead-do-this-instead
-1. http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/
-1. http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/
-1. https://anti-pattern.com/github-is-your-resume-now
-1. https://code.dblock.org/2011/07/14/github-is-your-new-resume.html
-1. https://www.themuse.com/advice/how-to-easily-make-yourself-the-most-obvious-fit-for-the-position
-1. https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now
-1. https://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fit
-1. https://www.themuse.com/advice/5-ways-your-resume-is-just-like-everyone-elses
-1. https://www.themuse.com/advice/cv-vs-resumehere-are-the-differences
-1. https://www.themuse.com/advice/4-ways-you-can-always-improve-your-resume-no-matter-how-good-it-is-1
-1. https://theundercoverrecruiter.com/tools-infographic-resume/
-1. https://www.behance.net/gallery/15144011/Free-clean-interactive-resume
-1. https://www.behance.net/gallery/11402207/Conservative-Resume-Design
-1. https://dribbble.com/shots/1373157-Resume
+1. [The Best Places to Post Your Resume, Depending On Your Field](https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606)
+1. [An Editor's Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
+1. [Cover Letters Are Dead: Do This Instead](https://www.fastcompany.com/3056444/cover-letters-are-dead-do-this-instead)
+1. [Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
+1. [Lessons from a year’s worth of hiring data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
+1. [GitHub Is Your Resume Now](https://anti-pattern.com/github-is-your-resume-now)
+1. [Github is Your New Resume](https://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
+1. [How to Easily Make Yourself the Most Obvious Fit for the Position](https://www.themuse.com/advice/how-to-easily-make-yourself-the-most-obvious-fit-for-the-position)
+1. [275 Free Resume Templates You Can Use Right Now](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now)
+1. [Here's How to Tweak Your Resume to Prove You're the Perfect Fit](https://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fit)
+1. [5 Ways Your Resume is Just Like Everyone Else’s](https://www.themuse.com/advice/5-ways-your-resume-is-just-like-everyone-elses)
+1. [CV Vs. Resume—Here Are the Differences](https://www.themuse.com/advice/cv-vs-resumehere-are-the-differences)
+1. [4 Ways You Can Always Improve Your Resume (No Matter How Good it Is)](https://www.themuse.com/advice/4-ways-you-can-always-improve-your-resume-no-matter-how-good-it-is-1)
+1. [5 Tools for Creating an Infographic Resume](https://theundercoverrecruiter.com/tools-infographic-resume/)
+1. [Free Clean Interactive Resume](https://www.behance.net/gallery/15144011/Free-clean-interactive-resume)
+1. [Conservative Resume Design](https://www.behance.net/gallery/11402207/Conservative-Resume-Design)
+1. [Sample Resume](https://dribbble.com/shots/1373157-Resume)
 
 ## Cover Letter
 
