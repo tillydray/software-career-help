@@ -47,20 +47,20 @@ Resources to make changing careers into software a bit easier.
 
 ## Networking
 
-1. https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes
-1. https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview
-1. https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event
-1. https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving
-1. https://medium.com/the-mission/the-number-one-predictor-of-career-success-according-to-network-science
-1. https://www.themuse.com/advice/the-savvy-networkers-guide-to-meeting-an-internet-stranger-irl
-1. https://www.themuse.com/advice/10-small-talk-tips-thatll-make-you-forget-you-ever-had-to-rely-on-so-how-about-that-weather
-1. https://www.themuse.com/advice/the-2minute-email-trick-that-convinced-85-of-recipients-to-actually-respond-to-me
-1. https://www.themuse.com/advice/heres-a-small-trick-for-turning-every-introduction-you-make-into-a-meaningful-one
-1. https://www.bustle.com/articles/93406-7-etiquette-tips-to-make-professional-networking-less-scary-because-youre-going-to-have-to-do
-1. http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/
-1. https://hbr.org/2016/01/how-successful-people-network-with-each-other
-1. https://mailtrack.io/blog/find-email-address/
-1. https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are
+1. [How to Ask for an Informational Interview (and Get a “Yes”)](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
+1. [3 Steps to a Perfect Informational Interview](https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview)
+1. [8 Ways to Be the Person Everyone Wants to Talk to at a Networking Event](https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event)
+1. [3 Networking Questions That Are Guaranteed to Keep the Conversation Moving](https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving)
+1. [The No. 1 Predictor Of Career Success According To Network Science](https://medium.com/the-mission/the-number-one-predictor-of-career-success-according-to-network-science)
+1. [The Savvy Networker's Guide to Meeting an Internet Stranger IRL](https://www.themuse.com/advice/the-savvy-networkers-guide-to-meeting-an-internet-stranger-irl)
+1. [10 Small Talk Tips That'll Make You Forget You Ever Had to Rely on "So, How About That Weather?"](https://www.themuse.com/advice/10-small-talk-tips-thatll-make-you-forget-you-ever-had-to-rely-on-so-how-about-that-weather)
+1. [The 2-Minute Email Trick That Convinced 85% of Recipients to Actually Respond to Me](https://www.themuse.com/advice/the-2minute-email-trick-that-convinced-85-of-recipients-to-actually-respond-to-me)
+1. [Here's a Small Trick for Turning Every Introduction You Make Into a Meaningful One](https://www.themuse.com/advice/heres-a-small-trick-for-turning-every-introduction-you-make-into-a-meaningful-one)
+1. [7 Etiquette Tips To Make Professional Networking Less Scary, Because You're Going To Have To Do It At Some Point](https://www.bustle.com/articles/93406-7-etiquette-tips-to-make-professional-networking-less-scary-because-youre-going-to-have-to-do)
+1. [‘So, What Do You Do?’ Rethinking Small Talk](http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/)
+1. [How Successful People Network with Each Other](https://hbr.org/2016/01/how-successful-people-network-with-each-other)
+1. [How to Find Anyone’s Email Address on the Web](https://mailtrack.io/blog/find-email-address/)
+1. [How to Introduce Yourself in a Way That'll Make People Care Who You Are](https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are)
 
 ## Self-Branding
 
