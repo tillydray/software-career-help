@@ -130,23 +130,23 @@ Resources to make changing careers into software a bit easier.
 
 ## Salary Negotiation
 
-1. https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-1. https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them
-1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
-1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
-1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
-1. https://hired.com/whitepapers/software-engineer-salary-data
-1. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
+1. [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+1. [](https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them)
+1. [Get the Salary You Deserve: 4 Steps to Figuring Out What You're Really Worth](https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth)
+1. [How I negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec)
+1. [Exactly what to say when recruiters ask you to name the first number… and other negotiation word-for-words](http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/)
+1. [Get unprecedented visibility into the market for software engineers based on actual job offers made to real people.](https://hired.com/whitepapers/software-engineer-salary-data)
+1. [2015 Salary Guide for Technology Professionals](https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view)
+1. [All Access Moolah Palooza 2015 Salary Guide](https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view)
+1. [Dice Tech Salary Survey](https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view)
 
 ## Books
-1. https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook)
+1. (https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook))
 
 ## Misc
-1. http://startupstash.com/
-1. https://www.reddit.com/r/Entrepreneur/
-1. https://www.freelancersunion.org/
-1. https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view
-1. https://www.youtube.com/watch?v=WySMrBDPb-c
-1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
+1. [A curated directory of tool and resources to build your startup](http://startupstash.com/)
+1. [Entrepreneur sub-reddit](https://www.reddit.com/r/Entrepreneur/)
+1. [Building A Better Future For Independent Workers](https://www.freelancersunion.org/)
+1. [Marketing Mentor: Calculate what it takes to run our business each year](https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view)
+1. [Nicolette Pizzitola at TEDxAdamsMorganWomen 2012](https://www.youtube.com/watch?v=WySMrBDPb-c)
+1. [9 Tech Podcasts So Addictive, Your Friends Should Start Planning the Intervention](https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention)
