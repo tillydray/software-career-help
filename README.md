@@ -10,27 +10,28 @@ Resources to make changing careers into software a bit easier.
 
 ## Creating and Improving Your Portoflio
 
-1. https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde
+1. [Tips and Tricks to Finding Issues to Contribute to on Github](https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde)
+1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
 
 ## Resume
 
-1. https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606
-1. https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume
-1. https://www.fastcompany.com/3056444/cover-letters-are-dead-do-this-instead
-1. http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/
-1. http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/
-1. https://anti-pattern.com/github-is-your-resume-now
-1. https://code.dblock.org/2011/07/14/github-is-your-new-resume.html
-1. https://www.themuse.com/advice/how-to-easily-make-yourself-the-most-obvious-fit-for-the-position
-1. https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now
-1. https://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fit
-1. https://www.themuse.com/advice/5-ways-your-resume-is-just-like-everyone-elses
-1. https://www.themuse.com/advice/cv-vs-resumehere-are-the-differences
-1. https://www.themuse.com/advice/4-ways-you-can-always-improve-your-resume-no-matter-how-good-it-is-1
-1. https://theundercoverrecruiter.com/tools-infographic-resume/
-1. https://www.behance.net/gallery/15144011/Free-clean-interactive-resume
-1. https://www.behance.net/gallery/11402207/Conservative-Resume-Design
-1. https://dribbble.com/shots/1373157-Resume
+1. [The Best Places to Post Your Resume, Depending On Your Field](https://lifehacker.com/the-best-places-to-post-your-resume-depending-on-your-1700927606)
+1. [An Editor's Guide to Perfecting Your Resume](https://www.themuse.com/advice/an-editors-guide-to-perfecting-your-resume)
+1. [Cover Letters Are Dead: Do This Instead](https://www.fastcompany.com/3056444/cover-letters-are-dead-do-this-instead)
+1. [Complete Guide to UX Resumes + 3 Free Templates](http://www.uxbeginner.com/complete-guide-to-ux-resumes-and-a-free-template/)
+1. [Lessons from a year’s worth of hiring data](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
+1. [GitHub Is Your Resume Now](https://anti-pattern.com/github-is-your-resume-now)
+1. [Github is Your New Resume](https://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
+1. [How to Easily Make Yourself the Most Obvious Fit for the Position](https://www.themuse.com/advice/how-to-easily-make-yourself-the-most-obvious-fit-for-the-position)
+1. [275 Free Resume Templates You Can Use Right Now](https://www.themuse.com/advice/275-free-resume-templates-you-can-use-right-now)
+1. [Here's How to Tweak Your Resume to Prove You're the Perfect Fit](https://www.themuse.com/advice/heres-how-to-tweak-your-resume-to-prove-youre-the-perfect-fit)
+1. [5 Ways Your Resume is Just Like Everyone Else’s](https://www.themuse.com/advice/5-ways-your-resume-is-just-like-everyone-elses)
+1. [CV Vs. Resume—Here Are the Differences](https://www.themuse.com/advice/cv-vs-resumehere-are-the-differences)
+1. [4 Ways You Can Always Improve Your Resume (No Matter How Good it Is)](https://www.themuse.com/advice/4-ways-you-can-always-improve-your-resume-no-matter-how-good-it-is-1)
+1. [5 Tools for Creating an Infographic Resume](https://theundercoverrecruiter.com/tools-infographic-resume/)
+1. [Free Clean Interactive Resume](https://www.behance.net/gallery/15144011/Free-clean-interactive-resume)
+1. [Conservative Resume Design](https://www.behance.net/gallery/11402207/Conservative-Resume-Design)
+1. [Sample Resume](https://dribbble.com/shots/1373157-Resume)
 
 ## Cover Letter
 
@@ -47,20 +48,20 @@ Resources to make changing careers into software a bit easier.
 
 ## Networking
 
-1. https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes
-1. https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview
-1. https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event
-1. https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving
-1. https://medium.com/the-mission/the-number-one-predictor-of-career-success-according-to-network-science
-1. https://www.themuse.com/advice/the-savvy-networkers-guide-to-meeting-an-internet-stranger-irl
-1. https://www.themuse.com/advice/10-small-talk-tips-thatll-make-you-forget-you-ever-had-to-rely-on-so-how-about-that-weather
-1. https://www.themuse.com/advice/the-2minute-email-trick-that-convinced-85-of-recipients-to-actually-respond-to-me
-1. https://www.themuse.com/advice/heres-a-small-trick-for-turning-every-introduction-you-make-into-a-meaningful-one
-1. https://www.bustle.com/articles/93406-7-etiquette-tips-to-make-professional-networking-less-scary-because-youre-going-to-have-to-do
-1. http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/
-1. https://hbr.org/2016/01/how-successful-people-network-with-each-other
-1. https://mailtrack.io/blog/find-email-address/
-1. https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are
+1. [How to Ask for an Informational Interview (and Get a “Yes”)](https://www.themuse.com/advice/how-to-ask-for-an-informational-interview-and-get-a-yes)
+1. [3 Steps to a Perfect Informational Interview](https://www.themuse.com/advice/3-steps-to-a-perfect-informational-interview)
+1. [8 Ways to Be the Person Everyone Wants to Talk to at a Networking Event](https://www.themuse.com/advice/8-ways-to-be-the-person-everyone-wants-to-talk-to-at-a-networking-event)
+1. [3 Networking Questions That Are Guaranteed to Keep the Conversation Moving](https://www.themuse.com/advice/3-networking-questions-that-are-guaranteed-to-keep-the-conversation-moving)
+1. [The No. 1 Predictor Of Career Success According To Network Science](https://medium.com/the-mission/the-number-one-predictor-of-career-success-according-to-network-science)
+1. [The Savvy Networker's Guide to Meeting an Internet Stranger IRL](https://www.themuse.com/advice/the-savvy-networkers-guide-to-meeting-an-internet-stranger-irl)
+1. [10 Small Talk Tips That'll Make You Forget You Ever Had to Rely on "So, How About That Weather?"](https://www.themuse.com/advice/10-small-talk-tips-thatll-make-you-forget-you-ever-had-to-rely-on-so-how-about-that-weather)
+1. [The 2-Minute Email Trick That Convinced 85% of Recipients to Actually Respond to Me](https://www.themuse.com/advice/the-2minute-email-trick-that-convinced-85-of-recipients-to-actually-respond-to-me)
+1. [Here's a Small Trick for Turning Every Introduction You Make Into a Meaningful One](https://www.themuse.com/advice/heres-a-small-trick-for-turning-every-introduction-you-make-into-a-meaningful-one)
+1. [7 Etiquette Tips To Make Professional Networking Less Scary, Because You're Going To Have To Do It At Some Point](https://www.bustle.com/articles/93406-7-etiquette-tips-to-make-professional-networking-less-scary-because-youre-going-to-have-to-do)
+1. [‘So, What Do You Do?’ Rethinking Small Talk](http://knowledge.wharton.upenn.edu/article/so-what-do-you-do-rethinking-small-talk/)
+1. [How Successful People Network with Each Other](https://hbr.org/2016/01/how-successful-people-network-with-each-other)
+1. [How to Find Anyone’s Email Address on the Web](https://mailtrack.io/blog/find-email-address/)
+1. [How to Introduce Yourself in a Way That'll Make People Care Who You Are](https://www.themuse.com/advice/how-to-introduce-yourself-in-a-way-thatll-make-people-care-who-you-are)
 
 ## Self-Branding
 
@@ -75,6 +76,7 @@ Resources to make changing careers into software a bit easier.
 1. https://www.themuse.com/advice/what-you-should-be-doing-for-your-personal-brand-every-day-week-and-month
 1. https://50waystogetajob.com/
 1. https://www.fastcompany.com/3057504/3-steps-for-breaking-the-imposter-syndrome-cycle
+1. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
 
 ## Interview Prep
 
@@ -123,31 +125,28 @@ Resources to make changing careers into software a bit easier.
 1. https://www.interviewcake.com/
 1. https://github.com/h5bp/Front-end-Developer-Interview-Questions
 1. https://docs.google.com/document/d/1gtBdi394fuOdcnFOmpwapTmK2b8NfRFIzeq-vZs7geM/edit#
+1. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
+1. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
 
 ## Salary Negotiation
 
-1. https://www.kalzumeus.com/2012/01/23/salary-negotiation/
-1. https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them
-1. https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth
-1. https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec
-1. http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/
+1. [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+1. [](https://99u.adobe.com/articles/52075/5-real-life-salary-negotiations-and-what-you-can-learn-from-them)
+1. [Get the Salary You Deserve: 4 Steps to Figuring Out What You're Really Worth](https://www.themuse.com/advice/get-the-salary-you-deserve-4-steps-to-figuring-out-what-youre-really-worth)
+1. [How I negotiated for an additional $15,000 at Yammer](https://medium.com/we-are-yammer/how-i-negotiated-for-an-additional-15-000-at-yammer-2d3c137623ec)
+1. [Exactly what to say when recruiters ask you to name the first number… and other negotiation word-for-words](http://blog.interviewing.io/exactly-what-to-say-when-recruiters-ask-you-to-name-the-first-number/)
+1. [Get unprecedented visibility into the market for software engineers based on actual job offers made to real people.](https://hired.com/whitepapers/software-engineer-salary-data)
+1. [2015 Salary Guide for Technology Professionals](https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view)
+1. [All Access Moolah Palooza 2015 Salary Guide](https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view)
+1. [Dice Tech Salary Survey](https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view)
 
 ## Books
-1. https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook)
+1. (https://simpleprogrammer.com/products/careerguide/ (Available in print and as an AudioBook))
 
 ## Misc
-
-1. https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention
-1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
-1. https://www.themuse.com/advice/6-insider-job-search-facts-thatll-make-you-rethink-how-youre-applying
-1. https://lifehacker.com/what-hiring-managers-wish-you-knew-about-applying-for-a-1734125179
-1. https://lifehacker.com/how-to-fake-being-more-confident-when-you-re-just-not-f-1739292468
-1. http://startupstash.com/
-1. https://www.reddit.com/r/Entrepreneur/
-1. https://www.freelancersunion.org/
-1. https://drive.google.com/file/d/0B0cuNYi34jyuZTQtZUpkb2xYOVE/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyuVVQtT0VDVUx1SHM/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyueG5QVldsckFmSWs/view
-1. https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view
-1. https://hired.com/whitepapers/software-engineer-salary-data
-1. https://www.youtube.com/watch?v=WySMrBDPb-c
+1. [A curated directory of tool and resources to build your startup](http://startupstash.com/)
+1. [Entrepreneur sub-reddit](https://www.reddit.com/r/Entrepreneur/)
+1. [Building A Better Future For Independent Workers](https://www.freelancersunion.org/)
+1. [Marketing Mentor: Calculate what it takes to run our business each year](https://drive.google.com/file/d/0B0cuNYi34jyublZNUGk3WXFyRTg/view)
+1. [Nicolette Pizzitola at TEDxAdamsMorganWomen 2012](https://www.youtube.com/watch?v=WySMrBDPb-c)
+1. [9 Tech Podcasts So Addictive, Your Friends Should Start Planning the Intervention](https://www.themuse.com/advice/9-tech-podcasts-so-addictive-your-friends-should-start-planning-the-intervention)
