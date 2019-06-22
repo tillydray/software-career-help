@@ -10,6 +10,7 @@ Resources to make changing careers into software a bit easier. The best one is p
 
 ## Creating and Improving Your Portoflio
 
+1. [LinkedRW: A simple CLI to create your resume and personal website based on your LinkedIn profile or a JSON file](https://github.com/zeshuaro/LinkedRW)
 1. [Tips and Tricks to Finding Issues to Contribute to on Github](https://dev.to/ignoreintuition/tips-and-tricks-to-finding-issues-to-contribute-to-on-github-2lde)
 1. https://www.themuse.com/advice/the-20minute-weekly-project-thats-turbocharging-my-career
 
