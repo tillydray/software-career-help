@@ -7,6 +7,7 @@ Resources to make changing careers into software a bit easier. The best one is p
 1. [Career Change
    Tracker](https://docs.google.com/spreadsheets/d/1Z2JO5JZhDXzi2NStQRz-L8cmOwECPoA0iJGHNjvzHbw/edit?usp=sharing).
    Download and fill it out as you go.
+1. [Kanban board to track your job search](http://huntr.co).
 
 ## Creating and Improving Your Portoflio
 
