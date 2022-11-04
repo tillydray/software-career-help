@@ -2,7 +2,9 @@
 
 Resources to make changing careers into software a bit easier.
 
-**The best one is probably CS Career Hackers [discord server](https://discordapp.com/invite/2qywUAK), get involved there.**
+## CS Career Hackers
+
+*The best resource here is probably CS Career Hackers [discord server](https://discordapp.com/invite/2qywUAK), get involved there.*
 
 ## Tracking Your Progress
 
